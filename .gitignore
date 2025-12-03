@@ -34,14 +34,6 @@ ENV/
 *~
 .DS_Store
 
-# YOLO/Model outputs
-results/
-*.weights
-*.pt
-*.onnx
-*.engine
-*.tflite
-
 # Test outputs
 test_images1/
 test_images2/
