@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# YOLO/Model outputs
+runs/
+results/
+*.weights
+*.pt
+*.onnx
+*.engine
+*.tflite
+
+# Test outputs
+test_images1/
+test_images2/
+test_video/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Images (uncomment if you want to exclude training images)
+# images/
+# labels/
+
+# Dataset files (uncomment if needed)
+# *.jpg
+# *.jpeg
+# *.png
+# *.txt
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
